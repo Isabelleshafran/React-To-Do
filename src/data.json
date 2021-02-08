@@ -1,0 +1,14 @@
+[{
+    "id": 1, 
+    "task" : "create react app", 
+    "completed" : true
+}, {
+    "id": 2, 
+    "task": "study for interview", 
+    "completed": true
+}, {
+    "id": 3, 
+    "task": "eat lunch", 
+    "completed": false
+}
+]
